@@ -4,6 +4,8 @@ email: ewan@raw-text.io
 description: 
 baseurl:
 url: "http://ewan-klein.github.io"
+twitter: ewanhklein
+github: ewan-klein
 
 # Build settings
 markdown: kramdown
