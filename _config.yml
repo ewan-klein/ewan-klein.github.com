@@ -1,9 +1,9 @@
 # Site settings
-title: Ewan Klein GitHub Projects
-email: 
+title: Ewan Klein
+email: ewan@raw-text.io
 description: 
 baseurl:
-url: "http://ewan-klein.github.io"
+url: "http://www.raw-text.io"
 twitter: ewanhklein
 github: ewan-klein
 
