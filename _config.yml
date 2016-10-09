@@ -11,4 +11,4 @@ github: ewan-klein
 markdown: kramdown
 permalink: pretty
 
-highlighter: pygments
+highlighter: rouge
