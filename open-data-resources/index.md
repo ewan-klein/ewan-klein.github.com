@@ -75,8 +75,9 @@ Miscellaneous list of other places:
 
 ### Resources for learning about data
 
-Course and tools:
+Forumms, courses and tools:
 
+* [The Open Knowledge Discussion Forum](https://discuss.okfn.org)
 * [data.gov.uk intro to Open Data](http://data.gov.uk/blog/simple-intro-open-data)
 * [School of Data Courses](http://schoolofdata.org/courses/)
 * [School of Data Tools](http://schoolofdata.org/online-resources/)
