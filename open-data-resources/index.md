@@ -19,7 +19,7 @@ Other key points:
 
 Key not-for-profit organisations involved in promoting and using open data:
 
-* [Open Knowledge Foundation](http://okfn.org)
+* [Open Knowledge International](http://okfn.org)
 * [OpenStreetMap](http://www.openstreetmap.org/about)
 * [Wikimedia](http://www.wikimedia.org)
 * [Sunlight Foundation](http://sunlightfoundation.com)
@@ -35,6 +35,7 @@ Overviews:
 * [Datahub](http://datahub.io)
 * [Wikipedia Open Data page](http://en.wikipedia.org/wiki/Open_data)
 * [List of open data catalogues](http://datacatalogs.org)
+* [Open data being used in 'real life'](http://opendata-aha.net)
 
 Trans-national initiatives:
 
@@ -141,7 +142,7 @@ Before investing too much time in starting a business around open data, have a l
 
 Please send corrections and updates to ewan [at] inf.ed.ac.uk
 
-Last edited: 16 October 2014
+Last edited: 9 October 2016
 
 
 
